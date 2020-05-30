@@ -1,0 +1,20 @@
+{
+  "name": "api-enquetes",
+  "version": "1.0.0",
+  "description": "API construída para Criar, Listar e Consultar enquetes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thyagodias/api-enquetes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thyagodias/api-enquetes/issues"
+  },
+  "homepage": "https://github.com/thyagodias/api-enquetes#readme"
+}
